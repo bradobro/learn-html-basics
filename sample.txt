@@ -1,0 +1,10 @@
+This is a text file. We usually name them ending 
+with ".txt" so computers and people can anticipate 
+what they contain.
+
+Text is about the simplest format of data you will find
+on your computer. It's just characters--letters, numbers
+punctuation, etc. No margins. No bold or underline,
+just text. 
+
+
